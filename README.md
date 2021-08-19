@@ -61,7 +61,7 @@ Charles Schwab, TD Ameritrade, Goldman Sachs, Merrill Lynch, Betterment, Wealthf
 
 * What has been the business impact of this company so far?
 
-While the company has historical validity, in the robo-advising space, it has become and remained one of the top companies in the robo-advising space because of its grand reach and willingness to invest and develop the technology necessary at a competitive pace. It has accomplished combining the prestige of the Vanguard brand with the new-age technology of robo-advising.
+While Vanguard has historical presence and validity; in the growing robo-advising space, it has transformed into one of the most capable companies in the robo-advising space because of its grand reach and willingness to invest and develop the technology necessary at a competitive pace. It has accomplished combining the prestige of the Vanguard brand with the new-age technology of robo-advising.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? 
 
@@ -69,7 +69,7 @@ The core metrics used to determine success in this space are the average rate of
 
 * How is your company performing relative to competitors in the same domain?
 
-Out of 20 top similar robo-advising services from 20 different companies, Vanguard ranked right in the middle of the pack with an annualized rate of return of 3.42% over a two- and half-year span between Dec 31st, 2017 and June 30th, 2020. The lowest return percentage was 0.81% while the highest was 4.71%.
+Out of 20 top similar robo-advising services from 20 different companies, Vanguard ranked right in the middle of the pack with an annualized rate of return of 3.42% over a two- and half-year span between Dec 31st, 2017 and June 30th, 2020. The lowest return percentage was 0.81% while the highest was 4.71%. Though it does hold the top spot in the world as of January 31st, 2021 for the largest amount of AUM (assets under management) for a robo-advisor at an amount of $231 billion.
 
 ## Recommendations
 
@@ -83,25 +83,37 @@ This would further give the client a sense of choice while still allowing the ro
 
 * What technologies would this additional product or service utilize?
 
-The technologies needed for this new feature or “product offering” would be the same ones that the company uses for the current Digital Advisor model which include machine learning, artificial intelligence, data analysis, and cloud computing.
+The technologies needed for this new feature or “product offering” would be the same ones that the company uses for the current Digital Advisor model which include machine learning, artificial intelligence, data analysis, and cloud computing. However, it can also analyze data to identify effective customer-interaction features found in other applications throughout and outside the financial technology field.
 
 * Why are these technologies appropriate for your solution?
 
 The technologies are appropriate for the solution because they encompass the necessary capabilities to carry out the task at hand. First, the machine learning program can be designed using the cloud-computing infrastructure to collect and analyze data relevant to the portfolio/client’s needs, then the artificial intelligence or software program will be responsible for managing the actual execution. 
 
-Links for Sources utilized:
-
+## Links for sources utilized:
+--
 [https://tearsheet.co/future-of-investing/people-are-niches-robo-advisers-are-narrowing-their-focus-to-grow-market-share/]
+--
 [https://www.vanguardjobs.com/career-blog/2019/12/04/audit-and-analytics/]
+--
 [https://www.cnbc.com/2020/10/14/millennials-gen-z-want-robo-advisors-and-digital-financial-advice.html]
+--
 [https://www.investopedia.com/vanguard-digital-advisor-review-5078066]
+--
 [https://en.wikipedia.org/wiki/Robo-advisor#:~:text=assets%20under%20management-,History,client's%20assets%20by%20financial%20managers.]
+--
 [https://unhedged.com.au/the-history-of-robo-advisors/]
+--
 [https://www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide]
-[https://paymentsnext.com/robo-advisors-will-reach-2-5-trillion-in-assets-managed-in-2023/]
+--
+[https://paymentsnext.com/robo-advisors-will-reach-2-5-trillion-in-assets-managed-in-2023/]--
+--
 [https://www.wealthbriefing.com/html/article.php?id=190292#.YRsDSIhKiiM]
+--
 [https://www.nerdwallet.com/article/investing/robo-advisor-performance]
+--
 [https://www.nerdwallet.com/best/investing/robo-advisors]
+--
+[https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/]
 
 
 *END MARKDOWN*
