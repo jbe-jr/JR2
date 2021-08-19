@@ -55,19 +55,7 @@ The first robo-advisors were launched in 2008 while the financial crisis of ramp
 
 * What are the other major companies in this domain?
 
-Charles Schwab
-TD Ameritrade
-Goldman Sachs
-Merrill Lynch
-Betterment
-Wealthfront
-Personal Capital
-SoFi
-Stash
-Axos Invest
-Ally Invest
-SigFig
-Blooom
+Charles Schwab, TD Ameritrade, Goldman Sachs, Merrill Lynch, Betterment, Wealthfront, Personal Capital, SoFi, Stash, Axos Invest, Ally Invest, SigFig, and Blooom are some of the more focused competitors to Vanguard Digital Advisor in the robo-advising industry.
 
 ## Results
 
