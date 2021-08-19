@@ -1,4 +1,3 @@
-# JR2
 # Vanguard Digital Advisor
 
 ## Overview and Origin 
