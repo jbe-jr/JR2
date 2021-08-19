@@ -90,30 +90,31 @@ The technologies needed for this new feature or “product offering” would be 
 The technologies are appropriate for the solution because they encompass the necessary capabilities to carry out the task at hand. First, the machine learning program can be designed using the cloud-computing infrastructure to collect and analyze data relevant to the portfolio/client’s needs, then the artificial intelligence or software program will be responsible for managing the actual execution. 
 
 ## Links for sources utilized:
+
+(https://tearsheet.co/future-of-investing/people-are-niches-robo-advisers-are-narrowing-their-focus-to-grow-market-share/)
 --
-[https://tearsheet.co/future-of-investing/people-are-niches-robo-advisers-are-narrowing-their-focus-to-grow-market-share/]
+(https://www.vanguardjobs.com/career-blog/2019/12/04/audit-and-analytics/)
 --
-[https://www.vanguardjobs.com/career-blog/2019/12/04/audit-and-analytics/]
+(https://www.cnbc.com/2020/10/14/millennials-gen-z-want-robo-advisors-and-digital-financial-advice.html)
 --
-[https://www.cnbc.com/2020/10/14/millennials-gen-z-want-robo-advisors-and-digital-financial-advice.html]
+(https://www.investopedia.com/vanguard-digital-advisor-review-5078066)
 --
-[https://www.investopedia.com/vanguard-digital-advisor-review-5078066]
+(https://en.wikipedia.org/wiki/Robo-advisor#:~:text=assets%20under%20management-,History,client's%20assets%20by%20financial%20managers.)
 --
-[https://en.wikipedia.org/wiki/Robo-advisor#:~:text=assets%20under%20management-,History,client's%20assets%20by%20financial%20managers.]
+(https://unhedged.com.au/the-history-of-robo-advisors/)
 --
-[https://unhedged.com.au/the-history-of-robo-advisors/]
+(https://www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide)
 --
-[https://www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide]
+(https://paymentsnext.com/robo-advisors-will-reach-2-5-trillion-in-assets-managed-in-2023/)
 --
-[https://paymentsnext.com/robo-advisors-will-reach-2-5-trillion-in-assets-managed-in-2023/]--
+(https://www.wealthbriefing.com/html/article.php?id=190292#.YRsDSIhKiiM)
 --
-[https://www.wealthbriefing.com/html/article.php?id=190292#.YRsDSIhKiiM]
+(https://www.nerdwallet.com/article/investing/robo-advisor-performance)
 --
-[https://www.nerdwallet.com/article/investing/robo-advisor-performance]
+(https://www.nerdwallet.com/best/investing/robo-advisors)
 --
-[https://www.nerdwallet.com/best/investing/robo-advisors]
+(https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/)
 --
-[https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/]
 
 
 *END MARKDOWN*
